@@ -1,5 +1,5 @@
 # FraudShield AI
-Live Demo: https://0b75bc5009c68ad9f5.gradio.live
+Live Demo: https://1046ca5ef526776bdc.gradio.live
 
 An AI-powered fraud detection tool that checks transactions, UPI IDs and SMS messages for fraud risk and explains why.
 
