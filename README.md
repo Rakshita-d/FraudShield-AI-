@@ -11,10 +11,13 @@ An AI-powered fraud detection tool that checks transactions, UPI IDs and SMS mes
 4. OTP Verification Simulation (demo only)
 5. Smart Fraud Alert System (Low / Medium / High with reasons and next steps)
 
-## How to run
-1. Open `Fraud_detection.ipynb` in Google Colab.
+## How to Run
+
+1. Open `Fraud_detection (3).ipynb` in Google Colab.
 2. Click Runtime → Run all.
-3. Open the gradio.live link that appears.
+3. Wait for the final cell to start the Gradio app.
+4. Open the new `gradio.live` link shown in the output.
+5.
 
 ## Screenshots
 
