@@ -20,18 +20,14 @@ An AI-powered fraud detection tool that checks transactions, UPI IDs and SMS mes
 
 ## Screenshots
 
+### High Risk
+![High Risk](high22.png)
 
-![Low](low.png)
+### Medium Risk
+![Medium Risk](medium.png)
 
-
-
-
-![Medium](medium.png)
-
-
-
-
-![High](high22.png)
+### Low Risk
+![Low Risk](low.png)
 
 
 
