@@ -17,7 +17,6 @@ An AI-powered fraud detection tool that checks transactions, UPI IDs and SMS mes
 2. Click Runtime → Run all.
 3. Wait for the final cell to start the Gradio app.
 4. Open the new `gradio.live` link shown in the output.
-5.
 
 ## Screenshots
 
